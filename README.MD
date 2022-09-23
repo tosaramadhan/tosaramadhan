@@ -1,8 +1,8 @@
-# Hi there, I'm Yoga trimulya👋
+# Hi there, I'm Tosa Ramadhan👋
 
 ## I'm a Front End Developer!!
 
-- 🔭 jalan ninjaku adalah ngoding
+- 🔭 Harus Bisa Front-End Development
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2022 Goals: Learn more about web
 
@@ -21,4 +21,4 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Wb11G&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=yogatrimulya&theme=github-light&border_radius=10&fire=DD0000&background=FFFFFF00&border=FFFFFF00&ring=DD0000&stroke=DD2727&sideLabels=0DDD09&currStreakLabel=DD2727)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yogatrimulya&show_icons=true&theme=vue)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=tosaramadhan&theme=github-light&border_radius=10&fire=DD0000&background=FFFFFF00&border=FFFFFF00&ring=DD0000&stroke=DD2727&sideLabels=0DDD09&currStreakLabel=DD2727)](https://git.io/streak-stats) ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tosaramadhan&show_icons=true&theme=vue)
